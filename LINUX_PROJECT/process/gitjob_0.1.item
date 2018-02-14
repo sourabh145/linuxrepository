@@ -113,7 +113,7 @@
       <elementValue elementRef="SCHEMA_COLUMN" value="name"/>
       <elementValue elementRef="VALUE" value="&quot;sourabh&quot;"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="age"/>
-      <elementValue elementRef="VALUE" value="&quot;21&quot;"/>
+      <elementValue elementRef="VALUE" value="21"/>
     </elementParameter>
     <elementParameter field="RADIO" name="USE_INTABLE" value="false"/>
     <elementParameter field="TABLE" name="INTABLE" show="false"/>
@@ -129,8 +129,6 @@
   </node>
   <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="20" offsetLabelY="37" posX="640" posY="192">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="" show="false"/>
     <elementParameter field="RADIO" name="BASIC_MODE" value="true"/>
     <elementParameter field="RADIO" name="TABLE_PRINT" value="false"/>
     <elementParameter field="RADIO" name="VERTICAL" value="false"/>
